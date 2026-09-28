@@ -1,0 +1,3 @@
+Built-in image generation: four separate images.
+Subjects: two empty angular speech bubbles; simple three-room plan and pencil; single claw hammer; single square-bow house key.
+Shared prompt: Minimal precise line illustration, clean geometric straight lines, consistent thin monoline stroke, pale sky #a9c4bf, transparent background, no texture, sketch strokes, hatching, shadow, gradients, decorative marks or text. Flat front view, centered square canvas, outline only.

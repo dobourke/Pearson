@@ -1,0 +1,6 @@
+Built-in image generation. Style reference: services/home-additions-v2.png.
+Shared direction: restrained architectural line drawing, pale sky #a9c4bf ink, transparent background, no text or numbers, square canvas, readable at 200px.
+Two simple overlapping hand-drawn speech bubbles, one containing a small house outline, suggesting a homeowner and carpenter conversation
+An architectural floor plan partly rolled on a tabletop with a carpenter pencil and a small measuring ruler, suggesting planning and estimating
+A traditional carpenter hammer beside a wood joint and a small hand plane, suggesting careful construction
+A hand offering a single house key with a small house-shaped key tag, suggesting project handover
